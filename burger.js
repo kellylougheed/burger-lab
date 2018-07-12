@@ -9,7 +9,7 @@ let total = 0;
 
 // Select the fries
 
-// Add an event listener that adds $2 to the total if the fries are clicked
+// Add an event listener that adds $2 to the total if the fries are clicked. Hint: use the += operator.
 
 // Select the bacon
 

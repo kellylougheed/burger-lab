@@ -7,7 +7,7 @@ Luckily, you are a skilled JavaScript developer, and you can tackle this!
 Clone this repo to Cloud 9 and open index.html and burger.js. The JS code has been started for you, but there are still some remaining tasks detailed in the comments.
 
 1. For each of the items, select it using `document.querySelector` and store it in a variable.
-2. Add an event listener to each item that increases the `total` variable by a certain amount of dollars (given in the comments).
+2. Add an event listener to each item that increases the `total` variable by a certain amount of dollars (given in the comments) using the `+=` operator.
 3. Select the `#button` button and the `#totalPrice` paragraph elements with `document.querySelector`.
 4. Add an event listener to the `button` that uses `innerHTML` to print the customer's current total in the `#totalPrice` paragraph.
 
